@@ -1,4 +1,5 @@
-![index html - WEATHER-APP - Visual Studio Code 17_03_2025 4_53_13 pm](https://github.com/user-attachments/assets/abd1badc-07c7-46d9-8d99-67c04ee1bd44)
+![env - WEATHER-APP - Visual Studio Code 17_03_2025 5_21_05 pm](https://github.com/user-attachments/assets/bbb37782-9e05-435c-b6f3-bd9e214ec9c4)
+
 
 ---
 
