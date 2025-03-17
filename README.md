@@ -57,7 +57,7 @@ npm run dev
 const [weatherData, setWeatherData] = useState(false);
 ```
 
-##useEffect
+## useEffect
 **useEffect is a built-in React hook that performs side effects in function components. In this Weather App, useEffect is used to fetch default weather data when the component first mounts.**
 ```js
 useEffect(() => {
